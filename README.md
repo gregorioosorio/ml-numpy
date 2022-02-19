@@ -1,2 +1,2 @@
 # ml-numpy
-numpy examples
+cheat sheet with some numpy operations
